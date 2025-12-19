@@ -15,7 +15,7 @@ Technologies Used
 - JavaScript
 
 Live Demo
-https://your-username.github.io/student-marks-manager/
+student-marks-manager.vercel.app
 
 How to Run Locally
 1. Download the project
